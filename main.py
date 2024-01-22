@@ -4,11 +4,11 @@ import streamlit as st
 import plotly.express as px
 
 # %%
-st.set_page_config(page_title='Sales Dashboard',
+st.set_page_config(page_title='Sales Analysis Board',
                 page_icon=':bar_chart:',
                 layout='wide')
 
-st.title(':bar_chart: Sales Dashboard')
+st.title(':bar_chart: Sale Analysis board')
 st.markdown('##')
 # %%
 
